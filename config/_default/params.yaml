@@ -11,27 +11,13 @@ appearance:
   font: minimal
   font_size: S
 
-# SEO
 
-marketing:
-  seo:
-    site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: l
     show_logo: false
     show_language: false
@@ -60,7 +46,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-documentation-theme'
+    url: 'https://github.com/elisefilotas/LettreOuverte'
     content_dir: content
     branch: main
   comment:
