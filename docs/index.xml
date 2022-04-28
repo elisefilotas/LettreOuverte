@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annexe</title>
+    <link>https://elisefilotas.github.io/LettreOuverte/</link>
+      <atom:link href="https://elisefilotas.github.io/LettreOuverte/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annexe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://elisefilotas.github.io/LettreOuverte/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Annexe</title>
+      <link>https://elisefilotas.github.io/LettreOuverte/</link>
+    </image>
+    
+    <item>
+      <title>Informations additionnelles</title>
+      <link>https://elisefilotas.github.io/LettreOuverte/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://elisefilotas.github.io/LettreOuverte/home/</guid>
+      <description>&lt;!--  
+Welcome to the _Project Docs_ template!
+
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;chapter1&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;👉 Get Started with Chapter 1&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+--&gt;
+&lt;h2 id=&#34;distribution-homme-femme&#34;&gt;Distribution Homme-Femme&lt;/h2&gt;
+&lt;p&gt;Ce tableau présente la distribution Homme-Femme pour les postes de professeure et professeur menant à la permanence dans les débartements de sciences biologiques et connexes dans les universités du Québec.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Université&lt;/th&gt;
+&lt;th&gt;Femmes&lt;/th&gt;
+&lt;th&gt;Hommes&lt;/th&gt;
+&lt;th&gt;Total&lt;/th&gt;
+&lt;th&gt;Pourcentage&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;références&#34;&gt;Références&lt;/h2&gt;
+&lt;p&gt;Ouvrages cités dans la lettre ouverte:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;St-Cyr, M.-F., Pelletier Nolet, J., Belletête V., et E. Langelier. (2021) Rapport statistique : Inscriptions des femmes en sciences et en génie au collégial et à l’université au Québec entre 2005 et 2020. &lt;em&gt;Chaire pour les femmes en sciences et en génie au Québec&lt;/em&gt; &lt;a href=&#34;https://cfsg.espaceweb.usherbrooke.ca/rapport-statistique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cfsg.espaceweb.usherbrooke.ca/rapport-statistique/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perreault, A., Franz-Odendaal, T., Langelier, E., Farenhorst, A., Mavriplis, C., et L. Shannon, (2018) Analysis of the distribution of females and males in STEM fields in Canada. &lt;em&gt;Réseau national des chaires du CRSNG pour les femmes en sciences et en génie.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Powell, K. (2021) How mothers get penalized in the scientific race. &lt;em&gt;Nature&lt;/em&gt; (595):611. [PDF] (&lt;a href=&#34;https://media.nature.com/original/magazine-assets/d41586-021-01993-x/d41586-021-01993-x.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://media.nature.com/original/magazine-assets/d41586-021-01993-x/d41586-021-01993-x.pdf&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Myers, K. R., W. Y. Tham, Y. Yin, et al. 2020. Unequal effects of the COVID-19 pandemic on scientists. &lt;em&gt;Nature Human Behaviour&lt;/em&gt; 4:880-883. &lt;a href=&#34;https://doi.org/10.1038/s41562-020-0921-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41562-020-0921-y&lt;/a&gt;; &lt;br&gt;
+Gao, J., Y. Yin, K. R. Myers, et al. 2021. Potentially long-lasting effects of the pandemic on scientists. Nature Communications 12:6188. &lt;a href=&#34;https://doi.org/10.1038/s41467-021-26428-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41467-021-26428-z&lt;/a&gt;;&lt;br&gt; Squazzoni, F., Bravo, G., Grimaldo, F., García-Costa, D., Farjam, M. et Mehmani, B. (2021). Gender gap in journal submissions and peer review during the first wave of the COVID-19 pandemic. A study on 2329 Elsevier journals. &lt;em&gt;PLOS ONE&lt;/em&gt;, 16(10). &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0257919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1371/journal.pone.0257919&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Page, S.E. (2007). &lt;em&gt;The difference : How the power of diversity creates better groups, firms, schools, ans societies&lt;/em&gt;.
+Princeton, New Jersey: Princeton University Press; &lt;br&gt;
+Bédard, L., Déziel, J. et Lamarche, L. (2006). &lt;em&gt;Introduction à la psychologie sociale: vivre, penser et agir avec les
+autres (2e éd.)&lt;/em&gt;. Montréal, Québec : Pearson.; &lt;br&gt;
+Hunt, V., Layton, D. et Prince, S. (2015). Why diversity matters. McKinsey &amp;amp; Company. Repéré à : 
+&lt;a href=&#34;https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters&lt;/a&gt;;  &lt;br&gt;
+Graydon, S. (2016). OMG! What if i really AM the best person : The top 7 reasons women should speak up. Repéré à : &lt;a href=&#34;https://uwaterloo.ca/faculty-association/representatives-and-committees/equity-committee/top-7-reasons-smart-women-should-speak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uwaterloo.ca/faculty-association/representatives-and-committees/equity-committee/top-7-reasons-smart-women-should-speak&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

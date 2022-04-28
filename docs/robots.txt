@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://elisefilotas.github.io/LettreOuverte/sitemap.xml
