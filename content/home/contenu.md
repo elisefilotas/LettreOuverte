@@ -14,7 +14,7 @@ design:
 
 <br>
 <br>
-
+<!--  
 ## Distribution Homme-Femme 
 
 Ce tableau présente la distribution par genre des professeures et professeurs [^1] dans les départements de sciences biologiques et connexes dans les universités du Québec.
@@ -26,11 +26,11 @@ Université  |   <div style="width:100px">Femmes </div>  |     <div style="width
 **Université Concordia**, Department of Biology     |  6 	|  22 	|  28 	|   21,4 
 **Université Laval**, Département de biologie 	|   6	|20	|26	| 23,1
 **Université McGill**, Departement of biology   	| 18 |	31 |	49 |	36,7
-**Université de Montréal**, Département de sciences biologiques  	|   8	|  23	|  31	|  25,8 	
+**Université de Montréal**, Département de sciences biologiques  	|   8	|  24	|  32	|  25 	
 **UQAC**, Département de sciences fondamentales   	|   7	| 18 |	25 |	28
 **UQAM**, Département des sciences biologiques |   13	| 28 |	41 | 31,7
 **UQAR**, Département de biologie |   2 |	14 |	16 |	12,5
-**UQAT**, Institut de recherche sur les forêts |  2	| 11 |	15	| 13,3
+**UQAT**, Institut de recherche sur les forêts |  2	| 12 |	14	| 14,3
 **UQO**, Département des sciences naturelles|   	4	 | 9	| 13 | 30.8
 **UQTR**, Département des sciences de l'environnement|   4	 | 12	| 16	|25 
 **Université Sherbrooke**, Département de biologie|   	7	| 22 |	29 |	24,1
@@ -41,6 +41,7 @@ Université  |   <div style="width:100px">Femmes </div>  |     <div style="width
 
 <br>
 <br>
+-->
 
 ## Références
 
